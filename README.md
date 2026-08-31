@@ -2,7 +2,6 @@
 
 > 一个用 **Selenium + 本地大模型**把「微博热搜抓取 → 舆情研判 → 邮件推送」串成自动流水线的舆情监测工具，面向**舆情分析 / 国际传播**场景；凭据本地保存、不上传。
 
-![Type](https://img.shields.io/badge/Type-Interview%20Portfolio-9cf)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white)
 ![Stack](https://img.shields.io/badge/Stack-Selenium%20%2B%20Ollama-green)
 ![Privacy](https://img.shields.io/badge/Privacy-Cookie%20%E6%9C%AC%E5%9C%B0-success)
@@ -46,9 +45,3 @@ python 微博舆情监测ai辅助分析系统.py
 
 - 微博 Cookie、SMTP 邮箱账号等凭据**仅保存在你本机**，仓库内不含任何密钥或个人信息。
 - 舆情分析走本地大模型，推文数据不外传。
-
-## 👤 关于本仓库
-
-本仓库是 **Auther-sudo** 的面试作品集之一，展示**舆情监测 + AI 研判 + 自动化推送**的工程实践。
-
-> 欢迎在 GitHub 主页查看更多作品：[@Auther-sudo](https://github.com/Auther-sudo)
